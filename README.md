@@ -64,11 +64,12 @@ grafo_matriz = [
 
 ```
 Seminario-01/
-├── backtrack.py         # Implementação principal do algoritmo
-├── grafo_example.png    # Grafo de exemplo que vamos usar no backtrack (Criamos no jupyter)
-├── Seminario 1.pdf.     # PDF com as instruções para a atividade
-├── apresentação         # Pasta com o ppt que utilizei no seminario
-└── grafos.ipynb.        # Jupyter Notebook onde usamos a lib NetworkX para visualizarmos nosso grafo!
+├── backtrack.py                     # Implementação principal do algoritmo
+├── grafo_example.png                # Grafo de exemplo que vamos usar no backtrack (Criamos no jupyter)
+├── Seminario 1.pdf.                 # PDF com as instruções para a atividade
+├── Seminario01-Caio_Vasconcelos.pdf # Slides em PDF
+├── apresentação                     # Pasta com o ppt que utilizei no seminario
+└── grafos.ipynb.                    # Jupyter Notebook onde usamos a lib NetworkX para visualizarmos nosso grafo!
 
 ```
 
