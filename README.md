@@ -75,7 +75,7 @@ Seminario-01/
 
 ## YouTube
 
-**Apresentação do Algoritmo**: [Link será adicionado em breve]
+**Apresentação do Algoritmo**: [[LINK PARA O VIDEO NO YOUTUBE](https://youtu.be/bDWfjOQXYGQ)]
 
 ---
 
